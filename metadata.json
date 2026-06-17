@@ -1,0 +1,6 @@
+{
+  "name": "Benaa - Materials Marketplace & Calculator",
+  "description": "Official marketplace for industrial materials and high-precision engineering estimators with live inventory tracking and structural load analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
